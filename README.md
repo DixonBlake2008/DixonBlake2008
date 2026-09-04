@@ -11,6 +11,5 @@ I am in the Career Scholars Program
 
 I am in the honors program
 
-Check out my LinkedIn profile [![LinkedIn Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.8IxSTRR_RjmMtUAT7nAT7gHaHa%3Fpid%3DApi&f=1&ipt=3181e310d38305b1477cb8b1524232e60beaf6f9ddf1d0d141c4635ef7864009&ipo=images)](https://www.linkedin.com/in/blake-dixon-b78470431/)
+Check out my LinkedIn profile [![LinkedIn Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F018%2F930%2F587%2Foriginal%2Flinkedin-logo-linkedin-icon-transparent-free-png.png&f=1&nofb=1&ipt=012d4d3a7cd1d775eedf91d236b79157a6240a185ebd91c88da7ae3eacde9e41)
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
